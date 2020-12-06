@@ -1,0 +1,15 @@
+export default {
+  DEFAULT_GAME_BALANCE: "0",
+
+  ETH_MIN_BET: "0.01",
+  ETH_MAX_BET: "0.1",
+  ETH_BET_AMOUNTS: ["0.02", "0.04"],
+  ETH_DEPOSIT_AMOUNTS: ["0.1", "0.4", "0.8"],
+  SET_BET_CLICK_BY_STEP_ETH: "0.01",
+
+  USDT_MIN_BET: "2",
+  USDT_MAX_BET: "40",
+  USDT_BET_AMOUNTS: ["4", "8"],
+  USDT_DEPOSIT_AMOUNTS: ["10", "20", "40"],
+  SET_BET_CLICK_BY_STEP_USDT: "1"
+};
